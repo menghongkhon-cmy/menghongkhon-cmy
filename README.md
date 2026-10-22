@@ -1,6 +1,6 @@
 <!-- Banner Image with Fallback -->
 <p align="center">
-  <img src="./banner.jpg" alt="KHON Menghong Banner" width="100%" onerror="this.style.display='none'" />
+  <img src="./banner.png" alt="KHON Menghong Banner" width="100%" onerror="this.style.display='none'" />
 </p>
 
 # Hi, I'm KHON Menghong 👋
@@ -57,7 +57,7 @@ I am a dedicated web development student based in Cambodia with a strong passion
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=menghongkhon-cmy&theme=tokyonight&hide_border=true&color=7aa2f7&line=7aa2f7&point=bb9af7&background=1a1b26" alt="GitHub Activity Graph" width="100%" />
+  <img src="GitHub Activity Graph.png" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I am a dedicated web development student based in Cambodia with a strong passion
   <a href="mailto:menghongkhon180@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://menghong-dev-gc8q.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://portfolio-new-hong.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
