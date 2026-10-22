@@ -1,0 +1,84 @@
+<!-- Banner Image with Fallback -->
+<p align="center">
+  <img src="./banner.png" alt="KHON Menghong Banner" width="100%" onerror="this.style.display='none'" />
+</p>
+
+# Hi, I'm KHON Menghong 👋
+
+### **Web Developer | Aspiring Full-Stack Developer** based in Cambodia 🇰🇭
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Web+Developer;Building+Modern+Web+Applications;Learning+Full-Stack+Development;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I am a dedicated web development student based in Cambodia with a strong passion for building clean, responsive, and user-friendly web applications. 
+
+* 💻 **Current Focus:** Strengthening my foundation in HTML, CSS, JavaScript, Git, and GitHub while building real-world projects.
+* 🤝 **Collaboration:** Experienced in working with peer teams on collaborative student projects and managing code workflows.
+* 🎯 **Career Goal:** Evolving into a professional Full-Stack Web Developer by continuously learning modern frameworks, backend architectures, and database management.
+
+---
+
+## 🛠️ Technology Stack
+
+### **Core Skills**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github" alt="Core Tech Stack" />
+</p>
+
+### **Learning & Future Goals**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,python" alt="Future Tech Stack" />
+</p>
+
+---
+
+## 📁 Featured Projects
+
+| Project Name & Link | Description | Key Technologies |
+| :--- | :--- | :--- |
+| **[Personal Portfolio](https://menghong-dev-gc8q.vercel.app/)** | A modern, responsive developer portfolio showcasing my projects, background, and skills. | HTML, CSS, JavaScript, Vercel |
+| **[CodFlow Programming](https://codflow-programming.vercel.app/)** | An educational web platform designed to help beginner IT students learn core programming concepts. | HTML, CSS, JavaScript |
+| **[Ink & Pages](https://board-team.github.io/Team_bord-G4/)** | A responsive e-commerce web platform for books, stationery, and educational materials built collaboratively. | HTML, CSS, JavaScript, GitHub Pages |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=menghongkhon-cmy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Menghong's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menghongkhon-cmy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="GitHub Activity Graph.png" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/menghongkhon-cmy" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:menghongkhon180@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://portfolio-new-hong.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+> *"Code • Learn • Improve"*
+> Building software is an ongoing journey of curiosity, problem-solving, and dedication to crafting meaningful digital experiences.
