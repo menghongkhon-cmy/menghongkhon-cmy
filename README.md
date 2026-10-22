@@ -1,68 +1,84 @@
-<div align="center">
+<!-- Banner Image with Fallback -->
+<p align="center">
+  <img src="./banner.jpg" alt="KHON Menghong Banner" width="100%" onerror="this.style.display='none'" />
+</p>
 
-  <!-- ១. ចំណងជើងស្វាគមន៍ -->
-  <h1>Hi, I'm KHON Menghong 👋</h1>
+# Hi, I'm KHON Menghong 👋
 
-  <br />
+### **Web Developer | Aspiring Full-Stack Developer** based in Cambodia 🇰🇭
 
-  <!-- ២. រូបភាព Banner ធំ -->
-  <img src="./banner.jpg" alt="Header Banner" width="100%" />
-
-  <br /><br />
-
-  <!-- ៣. ព័ត៌មានតួនាទី និងទីតាំង -->
-  <h3>Web Developer • Front-End / Full-Stack • Cambodia 🇰🇭</h3>
-
-  <!-- ៤. ពាក្យស្លោក/ការពិពណ៌នា -->
-  <p>Passionate about building clean code, interactive web applications, and learning new technologies.</p>
-
-  <br />
-
-  <!-- ៥. អក្សរមាន Animation រត់ (Typing Effect) -->
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vcenter=true&width=435&lines=Web+Developer;HTML+%2B+CSS+%2B+JavaScript;Passionate+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Web+Developer;Building+Modern+Web+Applications;Learning+Full-Stack+Development;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
   </a>
+</p>
 
-  <br /><br />
+---
 
-  <!-- ៦. ប៊ូតុង Social Media & Portfolio Badges -->
-  <a href="https://github.com/menghongkhon-cmy">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:menghongkhon180@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+## 🚀 About Me
 
-  <br /><br />
-  <hr />
-  <br />
+I am a dedicated web development student based in Cambodia with a strong passion for building clean, responsive, and user-friendly web applications. 
 
-  <!-- ៧. ផ្នែកបង្ហាញ Skills / Technologies -->
-  <h2>🛠️ Tech Stack & Tools</h2>
-  <br />
+* 💻 **Current Focus:** Strengthening my foundation in HTML, CSS, JavaScript, Git, and GitHub while building real-world projects.
+* 🤝 **Collaboration:** Experienced in working with peer teams on collaborative student projects and managing code workflows.
+* 🎯 **Career Goal:** Evolving into a professional Full-Stack Web Developer by continuously learning modern frameworks, backend architectures, and database management.
 
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+---
+
+## 🛠️ Technology Stack
+
+### **Core Skills**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github" alt="Core Tech Stack" />
+</p>
+
+### **Learning & Future Goals**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,python" alt="Future Tech Stack" />
+</p>
+
+---
+
+## 📁 Featured Projects
+
+| Project Name & Link | Description | Key Technologies |
+| :--- | :--- | :--- |
+| **[Personal Portfolio](https://menghong-dev-gc8q.vercel.app/)** | A modern, responsive developer portfolio showcasing my projects, background, and skills. | HTML, CSS, JavaScript, Vercel |
+| **[CodFlow Programming](https://codflow-programming.vercel.app/)** | An educational web platform designed to help beginner IT students learn core programming concepts. | HTML, CSS, JavaScript |
+| **[Ink & Pages](https://board-team.github.io/Team_bord-G4/)** | A responsive e-commerce web platform for books, stationery, and educational materials built collaboratively. | HTML, CSS, JavaScript, GitHub Pages |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=menghongkhon-cmy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Menghong's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menghongkhon-cmy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=menghongkhon-cmy&theme=tokyonight&hide_border=true&color=7aa2f7&line=7aa2f7&point=bb9af7&background=1a1b26" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/menghongkhon-cmy" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </p>
+  </a>
+  <a href="mailto:menghongkhon180@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://menghong-dev-gc8q.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-  <br />
-  <hr />
-  <br />
+---
 
-  <!-- ៨. ផ្នែកបង្ហាញ GitHub Stats -->
-  <h2>📊 GitHub Stats</h2>
-  <br />
+## 💡 Developer Mindset
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=menghongkhon-cmy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menghongkhon-cmy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-  </p>
-
-</div>
+> *"Code • Learn • Improve"*
+> Building software is an ongoing journey of curiosity, problem-solving, and dedication to crafting meaningful digital experiences.
